@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 3D Map Modeling Dashboard",
+  "description": "Dựng mô hình 3D tương tác từ bản đồ ảnh 2D hoặc hồ sơ bản vẽ bản đồ, kèm theo hệ thống điều khiển dữ liệu, trạm thời tiết, biểu đồ phân tích và giao diện HUD tương lai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
